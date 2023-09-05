@@ -1,0 +1,21 @@
+h1 {
+    color: #209f0f;;
+}
+h2 { 
+    color: #7775e3;
+}
+h3 {
+    color: rgb(218, 112, 218);
+}
+h4 {
+    color: #e3ee07f0;
+}
+h5 {
+    color: rgba(253, 152, 43, 0.867);
+}
+h6 {
+    color: rgb(120, 205, 225);
+}
+p {
+    color: rgba(255, 44, 44, 0.6);
+}
